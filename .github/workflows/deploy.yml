@@ -42,4 +42,3 @@ jobs:
           echo "MONGODB_DB_NAME: $MONGODB_DB_NAME"
 
 
-          //O0BQIevV7RSnt5Sr
